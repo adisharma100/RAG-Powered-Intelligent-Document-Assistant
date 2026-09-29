@@ -1,0 +1,14 @@
+[
+  {"question": "How many days of paid vacation do full-time employees get?", "expected_source": "employee_handbook.md", "expected_keywords": ["24"]},
+  {"question": "How many vacation days can be carried over to next year?", "expected_source": "employee_handbook.md", "expected_keywords": ["8"]},
+  {"question": "Which days must employees be in the office?", "expected_source": "employee_handbook.md", "expected_keywords": ["Tuesday", "Thursday"]},
+  {"question": "How much does the Pro plan cost per month?", "expected_source": "product_faq.md", "expected_keywords": ["9"]},
+  {"question": "Within how many days can an annual subscription be refunded?", "expected_source": "product_faq.md", "expected_keywords": ["30"]},
+  {"question": "What is the maximum single file size on the Free plan?", "expected_source": "product_faq.md", "expected_keywords": ["2 GB"]},
+  {"question": "What encryption is used for data at rest?", "expected_source": "security_policy.md", "expected_keywords": ["AES-256"]},
+  {"question": "How often are backups run?", "expected_source": "security_policy.md", "expected_keywords": ["6 hours"]},
+  {"question": "Within how many hours must a security incident be reported?", "expected_source": "security_policy.md", "expected_keywords": ["1 hour"]},
+  {"question": "Who won the FIFA World Cup in 2018?"},
+  {"question": "What is the capital of Australia?"},
+  {"question": "Give me a recipe for chocolate cake."}
+]

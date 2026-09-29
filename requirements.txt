@@ -1,0 +1,21 @@
+# Core RAG stack
+langchain>=0.3
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-chroma>=0.1.4
+langchain-huggingface>=0.1
+langchain-openai>=0.2
+langchain-ollama>=0.2
+chromadb>=0.5
+sentence-transformers>=3.0
+pypdf>=4.0
+python-dotenv>=1.0
+
+# API + UI
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+streamlit>=1.35
+
+# Dev
+pytest>=8.0
