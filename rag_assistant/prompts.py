@@ -1,4 +1,4 @@
-"""step 3- Prompt engineering: the instructions that keep the LLM grounded in retrieved context."""
+"""Prompt engineering: the instructions that keep the LLM grounded in retrieved context."""
 from langchain_core.prompts import ChatPromptTemplate
 
 NO_ANSWER = "I don't know based on the provided documents."
