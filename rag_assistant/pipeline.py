@@ -1,4 +1,4 @@
-"""step 2- The RAG orchestrator: ingest -> retrieve -> guard -> generate -> cite.
+"""The RAG orchestrator: ingest -> retrieve -> guard -> generate -> cite.
 
 Hallucination mitigation is layered:
   1. Retrieval grounding  - the LLM only sees retrieved chunks.
